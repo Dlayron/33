@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(113,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Master\source\repos\Arkanoid\Arkanoid\main.cpp(113,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Arkanoid.vcxproj -> C:\Users\Master\source\repos\Arkanoid\x64\Debug\Arkanoid.exe
